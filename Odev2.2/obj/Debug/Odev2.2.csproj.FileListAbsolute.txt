@@ -1,0 +1,18 @@
+C:\Users\melisa\Desktop\Odev2.2\bin\Debug\Odev2.2.exe.config
+C:\Users\melisa\Desktop\Odev2.2\bin\Debug\Odev2.2.exe
+C:\Users\melisa\Desktop\Odev2.2\bin\Debug\Odev2.2.pdb
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2.2.csprojResolveAssemblyReference.cache
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2._2.Properties.Resources.resources
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2.2.csproj.GenerateResource.Cache
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2.2.exe
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2.2.pdb
+C:\Users\melisa\Desktop\Odev2.2\obj\Debug\Odev2._2.frmSorting.resources
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\bin\Debug\Odev2.2.exe.config
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2.2.exe
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2.2.pdb
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\bin\Debug\Odev2.2.exe
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\bin\Debug\Odev2.2.pdb
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2.2.csprojResolveAssemblyReference.cache
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2._2.frmSorting.resources
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2._2.Properties.Resources.resources
+C:\Users\melisa\Desktop\Veri Yapıları Ödev 2\Odev2.2\obj\Debug\Odev2.2.csproj.GenerateResource.Cache
